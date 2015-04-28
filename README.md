@@ -2,7 +2,7 @@
 
 [Package Documentation][Documentation] @ godoc.org
 
-[![Build Status](https://drone.io/github.com/sorcix/irc/status.png)](https://drone.io/github.com/sorcix/irc/latest)
+[![Build Status](https://travis-ci.org/belak/sorcix-irc.svg)](https://travis-ci.org/belak/sorcix-irc)
 
 ## Features
 Package irc allows your application to speak the IRC protocol.
